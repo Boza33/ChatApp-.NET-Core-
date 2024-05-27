@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\matej\\OneDrive\\Desktop\\C Sharp\\ChatApp\\ChatApp.csproj": {}
+    "C:\\Users\\kumov\\OneDrive\\Радна површина\\Chat App.NetCore\\ChatApp-.NET-Core-\\ChatApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\matej\\OneDrive\\Desktop\\C Sharp\\ChatApp\\ChatApp.csproj": {
+    "C:\\Users\\kumov\\OneDrive\\Радна површина\\Chat App.NetCore\\ChatApp-.NET-Core-\\ChatApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\matej\\OneDrive\\Desktop\\C Sharp\\ChatApp\\ChatApp.csproj",
+        "projectUniqueName": "C:\\Users\\kumov\\OneDrive\\Радна површина\\Chat App.NetCore\\ChatApp-.NET-Core-\\ChatApp.csproj",
         "projectName": "ChatApp",
-        "projectPath": "C:\\Users\\matej\\OneDrive\\Desktop\\C Sharp\\ChatApp\\ChatApp.csproj",
-        "packagesPath": "C:\\Users\\matej\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\matej\\OneDrive\\Desktop\\C Sharp\\ChatApp\\obj\\",
+        "projectPath": "C:\\Users\\kumov\\OneDrive\\Радна површина\\Chat App.NetCore\\ChatApp-.NET-Core-\\ChatApp.csproj",
+        "packagesPath": "C:\\Users\\kumov\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kumov\\OneDrive\\Радна површина\\Chat App.NetCore\\ChatApp-.NET-Core-\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\matej\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\kumov\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,6 +35,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -79,7 +80,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

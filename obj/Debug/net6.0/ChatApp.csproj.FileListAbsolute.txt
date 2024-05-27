@@ -1,0 +1,9 @@
+C:\Users\kumov\OneDrive\Радна површина\Chat App.NetCore\ChatApp-.NET-Core-\obj\Debug\net6.0\ChatApp.csproj.AssemblyReference.cache
+C:\Users\kumov\OneDrive\Радна површина\Chat App.NetCore\ChatApp-.NET-Core-\obj\Debug\net6.0\ChatApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kumov\OneDrive\Радна површина\Chat App.NetCore\ChatApp-.NET-Core-\obj\Debug\net6.0\ChatApp.AssemblyInfoInputs.cache
+C:\Users\kumov\OneDrive\Радна површина\Chat App.NetCore\ChatApp-.NET-Core-\obj\Debug\net6.0\ChatApp.AssemblyInfo.cs
+C:\Users\kumov\OneDrive\Радна површина\Chat App.NetCore\ChatApp-.NET-Core-\obj\Debug\net6.0\ChatApp.csproj.CoreCompileInputs.cache
+C:\Users\kumov\OneDrive\Радна површина\Chat App.NetCore\ChatApp-.NET-Core-\obj\Debug\net6.0\ChatApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kumov\OneDrive\Радна површина\Chat App.NetCore\ChatApp-.NET-Core-\obj\Debug\net6.0\ChatApp.RazorAssemblyInfo.cache
+C:\Users\kumov\OneDrive\Радна површина\Chat App.NetCore\ChatApp-.NET-Core-\obj\Debug\net6.0\ChatApp.RazorAssemblyInfo.cs
+C:\Users\kumov\OneDrive\Радна површина\Chat App.NetCore\ChatApp-.NET-Core-\obj\Debug\net6.0\ChatApp.sourcelink.json

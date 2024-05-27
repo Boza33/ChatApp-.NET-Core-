@@ -9,37 +9,39 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ChatApp
 build_property.RootNamespace = ChatApp
-build_property.ProjectDir = C:\Users\matej\OneDrive\Desktop\C Sharp\ChatApp\
+build_property.ProjectDir = C:\Users\kumov\OneDrive\Радна површина\Chat App.NetCore\ChatApp-.NET-Core-\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\matej\OneDrive\Desktop\C Sharp\ChatApp
+build_property.MSBuildProjectDirectory = C:\Users\kumov\OneDrive\Радна површина\Chat App.NetCore\ChatApp-.NET-Core-
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/matej/OneDrive/Desktop/C Sharp/ChatApp/Pages/Error.cshtml]
+[C:/Users/kumov/OneDrive/Радна површина/Chat App.NetCore/ChatApp-.NET-Core-/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/matej/OneDrive/Desktop/C Sharp/ChatApp/Pages/Index.cshtml]
+[C:/Users/kumov/OneDrive/Радна површина/Chat App.NetCore/ChatApp-.NET-Core-/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/matej/OneDrive/Desktop/C Sharp/ChatApp/Pages/Privacy.cshtml]
+[C:/Users/kumov/OneDrive/Радна површина/Chat App.NetCore/ChatApp-.NET-Core-/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/matej/OneDrive/Desktop/C Sharp/ChatApp/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/kumov/OneDrive/Радна површина/Chat App.NetCore/ChatApp-.NET-Core-/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/matej/OneDrive/Desktop/C Sharp/ChatApp/Pages/_ViewImports.cshtml]
+[C:/Users/kumov/OneDrive/Радна површина/Chat App.NetCore/ChatApp-.NET-Core-/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/matej/OneDrive/Desktop/C Sharp/ChatApp/Pages/_ViewStart.cshtml]
+[C:/Users/kumov/OneDrive/Радна површина/Chat App.NetCore/ChatApp-.NET-Core-/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/matej/OneDrive/Desktop/C Sharp/ChatApp/Pages/Shared/_Layout.cshtml]
+[C:/Users/kumov/OneDrive/Радна површина/Chat App.NetCore/ChatApp-.NET-Core-/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-8bvn44v19t
