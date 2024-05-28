@@ -304,3 +304,16 @@ C:\Users\matej\OneDrive\Desktop\Chat App Project\Chat App\ChatApp-.NET-Core-\bin
 C:\Users\matej\OneDrive\Desktop\Chat App Project\Chat App\ChatApp-.NET-Core-\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\matej\OneDrive\Desktop\Chat App Project\Chat App\ChatApp-.NET-Core-\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\matej\OneDrive\Desktop\Chat App Project\Chat App\ChatApp-.NET-Core-\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\KorisniK\Desktop\chatchat\obj\Debug\net6.0\ChatApp.csproj.AssemblyReference.cache
+C:\Users\KorisniK\Desktop\chatchat\obj\Debug\net6.0\ChatApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KorisniK\Desktop\chatchat\obj\Debug\net6.0\ChatApp.AssemblyInfoInputs.cache
+C:\Users\KorisniK\Desktop\chatchat\obj\Debug\net6.0\ChatApp.AssemblyInfo.cs
+C:\Users\KorisniK\Desktop\chatchat\obj\Debug\net6.0\ChatApp.csproj.CoreCompileInputs.cache
+C:\Users\KorisniK\Desktop\chatchat\obj\Debug\net6.0\ChatApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\KorisniK\Desktop\chatchat\obj\Debug\net6.0\ChatApp.RazorAssemblyInfo.cache
+C:\Users\KorisniK\Desktop\chatchat\obj\Debug\net6.0\ChatApp.RazorAssemblyInfo.cs
+C:\Users\KorisniK\Desktop\chatchat\obj\Debug\net6.0\ChatApp.sourcelink.json
+C:\Users\KorisniK\Desktop\chatchat\obj\Debug\net6.0\ChatApp.dll
+C:\Users\KorisniK\Desktop\chatchat\obj\Debug\net6.0\refint\ChatApp.dll
+C:\Users\KorisniK\Desktop\chatchat\obj\Debug\net6.0\ChatApp.pdb
+C:\Users\KorisniK\Desktop\chatchat\obj\Debug\net6.0\ChatApp.MvcApplicationPartsAssemblyInfo.cs
