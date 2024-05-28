@@ -1,3 +1,4 @@
+
 ﻿using ChatApp.Models;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
@@ -13,6 +14,7 @@ namespace ChatApp.Data
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
             : base(options)
         {
+
         }
         public DbSet<Chat> Chats { get; set; }
         public DbSet<Message> Messages { get; set; }
@@ -33,6 +35,7 @@ namespace ChatApp.Data
                 .HasOne(ub => ub.Chatss)
                 .WithMany(au => au.ChatUser)
                 .HasForeignKey(ub => ub.ChatId);
-            }
+
+        }
     }
 }
