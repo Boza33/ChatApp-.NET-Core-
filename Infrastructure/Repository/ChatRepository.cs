@@ -1,6 +1,5 @@
 ﻿using ChatApp.Data;
 using ChatApp.Models;
-using ChatApp_SignalR.Models;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;

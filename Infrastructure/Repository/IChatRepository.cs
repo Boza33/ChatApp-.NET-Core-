@@ -1,11 +1,10 @@
 ﻿using ChatApp.Models;
-using ChatApp_SignalR.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace ChatApp_SignalR.Infrastructure.Repository
+namespace ChatApp.Infrastructure.Repository
 {
     public interface IChatRepository
     {
