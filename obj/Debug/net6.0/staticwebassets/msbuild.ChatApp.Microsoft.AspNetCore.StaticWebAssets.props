@@ -1,5 +1,6 @@
 ﻿<Project>
   <ItemGroup>
+<<<<<<< Updated upstream
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\ChatApp.bundle.scp.css))">
       <SourceType>Package</SourceType>
       <SourceId>ChatApp</SourceId>
@@ -16,6 +17,8 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\ChatApp.bundle.scp.css))</OriginalItemSpec>
     </StaticWebAsset>
+=======
+>>>>>>> Stashed changes
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\css\site.css))">
       <SourceType>Package</SourceType>
       <SourceId>ChatApp</SourceId>

@@ -1,29 +1,50 @@
+<<<<<<< Updated upstream
 /* _content/ChatApp/Pages/Shared/_Layout.cshtml.rz.scp.css */
 /* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
 for details on configuring this project to bundle and minify static web assets. */
 
 a.navbar-brand[b-8bvn44v19t] {
+=======
+/* _content/ChatApp/Identity/Pages/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-z5xzicpuj8] {
+>>>>>>> Stashed changes
   white-space: normal;
   text-align: center;
   word-break: break-all;
 }
 
+<<<<<<< Updated upstream
 a[b-8bvn44v19t] {
   color: #0077cc;
 }
 
 .btn-primary[b-8bvn44v19t] {
+=======
+a[b-z5xzicpuj8] {
+  color: #0077cc;
+}
+
+.btn-primary[b-z5xzicpuj8] {
+>>>>>>> Stashed changes
   color: #fff;
   background-color: #1b6ec2;
   border-color: #1861ac;
 }
 
+<<<<<<< Updated upstream
 .nav-pills .nav-link.active[b-8bvn44v19t], .nav-pills .show > .nav-link[b-8bvn44v19t] {
+=======
+.nav-pills .nav-link.active[b-z5xzicpuj8], .nav-pills .show > .nav-link[b-z5xzicpuj8] {
+>>>>>>> Stashed changes
   color: #fff;
   background-color: #1b6ec2;
   border-color: #1861ac;
 }
 
+<<<<<<< Updated upstream
 .border-top[b-8bvn44v19t] {
   border-top: 1px solid #e5e5e5;
 }
@@ -36,11 +57,29 @@ a[b-8bvn44v19t] {
 }
 
 button.accept-policy[b-8bvn44v19t] {
+=======
+.border-top[b-z5xzicpuj8] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-z5xzicpuj8] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-z5xzicpuj8] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-z5xzicpuj8] {
+>>>>>>> Stashed changes
   font-size: 1rem;
   line-height: inherit;
 }
 
+<<<<<<< Updated upstream
 .footer[b-8bvn44v19t] {
+=======
+.footer[b-z5xzicpuj8] {
+>>>>>>> Stashed changes
   position: absolute;
   bottom: 0;
   width: 100%;
