@@ -1,10 +1,6 @@
 {
   "Version": 1,
-<<<<<<< Updated upstream
-  "Hash": "+6oYalBl5N6e3iuT/XKcjoW/StaRTzDhM7cz1rkIztc=",
-=======
-  "Hash": "wLmOdQonj1+0y96yQoQ0kneblLMsuys616EM48phd9k=",
->>>>>>> Stashed changes
+  "Hash": "gTK4Iv39DZgw7IEbSGjOeWVBXv+QddmtGV1fN7I7qcA=",
   "Source": "ChatApp",
   "BasePath": "_content/ChatApp",
   "Mode": "Default",
@@ -21,40 +17,6 @@
   ],
   "Assets": [
     {
-<<<<<<< Updated upstream
-      "Identity": "C:\\Users\\matej\\OneDrive\\Desktop\\Chat App Project\\Chat App\\ChatApp-.NET-Core-\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ChatApp.styles.css",
-      "SourceId": "ChatApp",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\matej\\OneDrive\\Desktop\\Chat App Project\\Chat App\\ChatApp-.NET-Core-\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
-      "BasePath": "_content/ChatApp",
-      "RelativePath": "ChatApp.styles.css",
-      "AssetKind": "All",
-      "AssetMode": "CurrentProject",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ApplicationBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\matej\\OneDrive\\Desktop\\Chat App Project\\Chat App\\ChatApp-.NET-Core-\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ChatApp.styles.css"
-    },
-    {
-      "Identity": "C:\\Users\\matej\\OneDrive\\Desktop\\Chat App Project\\Chat App\\ChatApp-.NET-Core-\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ChatApp.bundle.scp.css",
-      "SourceId": "ChatApp",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\matej\\OneDrive\\Desktop\\Chat App Project\\Chat App\\ChatApp-.NET-Core-\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
-      "BasePath": "_content/ChatApp",
-      "RelativePath": "ChatApp.bundle.scp.css",
-      "AssetKind": "All",
-      "AssetMode": "Reference",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ProjectBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\matej\\OneDrive\\Desktop\\Chat App Project\\Chat App\\ChatApp-.NET-Core-\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ChatApp.bundle.scp.css"
-=======
       "Identity": "C:\\Users\\matej\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.29\\staticwebassets\\V5\\css\\site.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
@@ -1073,7 +1035,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\matej\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.29\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
->>>>>>> Stashed changes
+    },
+    {
+      "Identity": "C:\\Users\\matej\\OneDrive\\Desktop\\Chat App Project\\Chat App\\ChatApp-.NET-Core-\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ChatApp.styles.css",
+      "SourceId": "ChatApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\matej\\OneDrive\\Desktop\\Chat App Project\\Chat App\\ChatApp-.NET-Core-\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/ChatApp",
+      "RelativePath": "ChatApp.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\matej\\OneDrive\\Desktop\\Chat App Project\\Chat App\\ChatApp-.NET-Core-\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ChatApp.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\matej\\OneDrive\\Desktop\\Chat App Project\\Chat App\\ChatApp-.NET-Core-\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ChatApp.bundle.scp.css",
+      "SourceId": "ChatApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\matej\\OneDrive\\Desktop\\Chat App Project\\Chat App\\ChatApp-.NET-Core-\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/ChatApp",
+      "RelativePath": "ChatApp.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\matej\\OneDrive\\Desktop\\Chat App Project\\Chat App\\ChatApp-.NET-Core-\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ChatApp.bundle.scp.css"
     },
     {
       "Identity": "C:\\Users\\matej\\OneDrive\\Desktop\\Chat App Project\\Chat App\\ChatApp-.NET-Core-\\wwwroot\\css\\site.css",

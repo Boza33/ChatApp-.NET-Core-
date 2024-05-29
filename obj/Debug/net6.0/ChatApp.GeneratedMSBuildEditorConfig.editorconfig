@@ -12,7 +12,7 @@ build_property.RootNamespace = ChatApp
 build_property.ProjectDir = C:\Users\matej\OneDrive\Desktop\Chat App Project\Chat App\ChatApp-.NET-Core-\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
-build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
 build_property.MSBuildProjectDirectory = C:\Users\matej\OneDrive\Desktop\Chat App Project\Chat App\ChatApp-.NET-Core-
 build_property._RazorSourceGeneratorDebug = 
 
@@ -34,6 +34,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/matej/OneDrive/Desktop/Chat App Project/Chat App/ChatApp-.NET-Core-/Areas/Identity/Pages/Account/ForgotPasswordConfirmation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxGb3Jnb3RQYXNzd29yZENvbmZpcm1hdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/matej/OneDrive/Desktop/Chat App Project/Chat App/ChatApp-.NET-Core-/Areas/Identity/Pages/Account/Lockout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2Nrb3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/matej/OneDrive/Desktop/Chat App Project/Chat App/ChatApp-.NET-Core-/Areas/Identity/Pages/Account/Login.cshtml]
@@ -112,6 +116,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/matej/OneDrive/Desktop/Chat App Project/Chat App/ChatApp-.NET-Core-/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/matej/OneDrive/Desktop/Chat App Project/Chat App/ChatApp-.NET-Core-/Areas/Identity/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -119,3 +127,35 @@ build_metadata.AdditionalFiles.CssScope =
 [C:/Users/matej/OneDrive/Desktop/Chat App Project/Chat App/ChatApp-.NET-Core-/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/matej/OneDrive/Desktop/Chat App Project/Chat App/ChatApp-.NET-Core-/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/matej/OneDrive/Desktop/Chat App Project/Chat App/ChatApp-.NET-Core-/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/matej/OneDrive/Desktop/Chat App Project/Chat App/ChatApp-.NET-Core-/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/matej/OneDrive/Desktop/Chat App Project/Chat App/ChatApp-.NET-Core-/Pages/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/matej/OneDrive/Desktop/Chat App Project/Chat App/ChatApp-.NET-Core-/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/matej/OneDrive/Desktop/Chat App Project/Chat App/ChatApp-.NET-Core-/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/matej/OneDrive/Desktop/Chat App Project/Chat App/ChatApp-.NET-Core-/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/matej/OneDrive/Desktop/Chat App Project/Chat App/ChatApp-.NET-Core-/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-8bvn44v19t

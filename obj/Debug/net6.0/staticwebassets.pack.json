@@ -1,6 +1,10 @@
 {
   "Files": [
     {
+      "Id": "C:\\Users\\matej\\OneDrive\\Desktop\\Chat App Project\\Chat App\\ChatApp-.NET-Core-\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ChatApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ChatApp.bundle.scp.css"
+    },
+    {
       "Id": "C:\\Users\\matej\\OneDrive\\Desktop\\Chat App Project\\Chat App\\ChatApp-.NET-Core-\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
