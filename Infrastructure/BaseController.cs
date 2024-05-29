@@ -5,7 +5,7 @@ using System.Linq;
 using System.Security.Claims;
 using System.Threading.Tasks;
 
-namespace ChatApp_SignalR.Infrastructure
+namespace ChatApp.Infrastructure
 {
     public class BaseController : Controller
     {

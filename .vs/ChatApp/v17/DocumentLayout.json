@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\kumov\\OneDrive\\\u0420\u0430\u0434\u043D\u0430 \u043F\u043E\u0432\u0440\u0448\u0438\u043D\u0430\\Chat App.NetCore\\ChatApp-.NET-Core-\\",
+  "WorkspaceRootPath": "C:\\Users\\KorisniK\\Desktop\\chatapp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1544808B-6B5C-43A3-B716-DA89F4C83FE5}|ChatApp.csproj|c:\\users\\kumov\\onedrive\\\u0440\u0430\u0434\u043D\u0430 \u043F\u043E\u0432\u0440\u0448\u0438\u043D\u0430\\chat app.netcore\\chatapp-.net-core-\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1544808B-6B5C-43A3-B716-DA89F4C83FE5}|ChatApp.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1544808B-6B5C-43A3-B716-DA89F4C83FE5}|ChatApp.csproj|c:\\users\\korisnik\\desktop\\chatapp\\areas\\identity\\identityhostingstartup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1544808B-6B5C-43A3-B716-DA89F4C83FE5}|ChatApp.csproj|solutionrelative:areas\\identity\\identityhostingstartup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1544808B-6B5C-43A3-B716-DA89F4C83FE5}|ChatApp.csproj|c:\\users\\korisnik\\desktop\\chatapp\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1544808B-6B5C-43A3-B716-DA89F4C83FE5}|ChatApp.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\kumov\\OneDrive\\\u0420\u0430\u0434\u043D\u0430 \u043F\u043E\u0432\u0440\u0448\u0438\u043D\u0430\\Chat App.NetCore\\ChatApp-.NET-Core-\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\kumov\\OneDrive\\\u0420\u0430\u0434\u043D\u0430 \u043F\u043E\u0432\u0440\u0448\u0438\u043D\u0430\\Chat App.NetCore\\ChatApp-.NET-Core-\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "IdentityHostingStartup.cs",
+              "DocumentMoniker": "C:\\Users\\KorisniK\\Desktop\\chatapp\\Areas\\Identity\\IdentityHostingStartup.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\IdentityHostingStartup.cs",
+              "ToolTip": "C:\\Users\\KorisniK\\Desktop\\chatapp\\Areas\\Identity\\IdentityHostingStartup.cs",
+              "RelativeToolTip": "Areas\\Identity\\IdentityHostingStartup.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T19:29:18.019Z",
+              "WhenOpened": "2024-05-29T16:35:48.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\KorisniK\\Desktop\\chatapp\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "C:\\Users\\KorisniK\\Desktop\\chatapp\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAkwEsAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T16:27:49.795Z",
               "EditorCaption": ""
             }
           ]

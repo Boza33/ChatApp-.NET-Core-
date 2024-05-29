@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\matej\\OneDrive\\Desktop\\Chat App Project\\Chat App\\ChatApp-.NET-Core-\\ChatApp.csproj": {}
+    "C:\\Users\\KorisniK\\Desktop\\chatapp\\ChatApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\matej\\OneDrive\\Desktop\\Chat App Project\\Chat App\\ChatApp-.NET-Core-\\ChatApp.csproj": {
+    "C:\\Users\\KorisniK\\Desktop\\chatapp\\ChatApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\matej\\OneDrive\\Desktop\\Chat App Project\\Chat App\\ChatApp-.NET-Core-\\ChatApp.csproj",
+        "projectUniqueName": "C:\\Users\\KorisniK\\Desktop\\chatapp\\ChatApp.csproj",
         "projectName": "ChatApp",
-        "projectPath": "C:\\Users\\matej\\OneDrive\\Desktop\\Chat App Project\\Chat App\\ChatApp-.NET-Core-\\ChatApp.csproj",
-        "packagesPath": "C:\\Users\\matej\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\matej\\OneDrive\\Desktop\\Chat App Project\\Chat App\\ChatApp-.NET-Core-\\obj\\",
+        "projectPath": "C:\\Users\\KorisniK\\Desktop\\chatapp\\ChatApp.csproj",
+        "packagesPath": "C:\\Users\\KorisniK\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\KorisniK\\Desktop\\chatapp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\matej\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\KorisniK\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -39,6 +39,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -47,11 +52,11 @@
           "dependencies": {
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[6.0.29, )"
+              "version": "[6.0.0, )"
             },
             "Microsoft.AspNetCore.Identity.UI": {
               "target": "Package",
-              "version": "[6.0.29, )"
+              "version": "[6.0.0, )"
             },
             "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
               "target": "Package",
@@ -63,7 +68,7 @@
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[6.0.29, )"
+              "version": "[6.0.0, )"
             },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
@@ -99,7 +104,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

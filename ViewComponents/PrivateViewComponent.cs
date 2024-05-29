@@ -17,9 +17,12 @@ namespace ChatApp.ViewComponents
         public IViewComponentResult Invoke()
         {
             var userId = HttpContext.User.FindFirst(ClaimTypes.NameIdentifier).Value;
-            var chats = _db.ChatUsers.Include(x => x.Chatss).Where(x => x.UserId == userId && x.Chatss.Type == ChatType.Room).Select(x => x.Chatss)
+            var chats = _db.Chats
+                .Include(x => x.ChatUser)
+                .ThenInclude(x => x.User)
+                .Where(x => x.Type == ChatType.Private && x.ChatUser
+                .Any(y => y.UserId == userId))
                 .ToList();
-
             return View(chats);
         }
     } 

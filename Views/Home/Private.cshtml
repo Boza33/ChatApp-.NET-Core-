@@ -1,0 +1,25 @@
+﻿@using ChatApp.Infrastructure
+@using Microsoft.AspNetCore.Identity;﻿
+@using ChatApp.Models;
+@model IEnumerable<User>
+@{
+    var userId = User.GetUserId();
+}
+
+<form asp-action="Private" method="get">
+    <div class="form-actions no-color">
+        <p>
+            Find by name: <input type="text" name="SearchString" value="@ViewData["CurrentFilter"]" />
+            <input type="submit" value="Search" class="btn btn-default" /> |
+            <a asp-action="Index">Back to Full List</a>
+        </p>
+    </div>
+</form>
+<div class="chat-body">
+    @foreach (var chat in Model)
+    {
+    <a class="room-button" asp-controller="Home" asp-action="Chat" asp-route-id="@chat.Id">
+         @chat.UserName
+    </a>
+    }
+</div>
